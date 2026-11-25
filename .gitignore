@@ -1,0 +1,7 @@
+# API key
+.env
+
+__pycache__/
+*.pyc
+.venv/
+.vs/
